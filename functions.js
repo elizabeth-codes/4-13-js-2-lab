@@ -2,7 +2,7 @@
 
 // 1. isHometown
 
-// Define your function here
+return town ==== "San Francisco"
 
 // 2. getFullName
 
